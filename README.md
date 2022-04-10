@@ -1,5 +1,5 @@
-# P1_Probstat_D_5025201088
-Laporan dan Repository pengerjaan Praktikum Modul 1 Probstat 2022 oleh Halyusa Ard Wahyudi (5025201088)
+# P1_Probstat_F_5025201156
+Nazhifah Elqolby 5025201156 Probstat F
 
 # Soal 1
 **Deskripsi:**
