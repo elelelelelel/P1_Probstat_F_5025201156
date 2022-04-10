@@ -406,7 +406,7 @@ NRP_Nama_Probstat_{Nama Kelas}_DNhistogram
 # menggunakan format nama NRP_Nama_Probstat{Nama Kelas}_DNhistogram 
 
 breaks = 50 
-hist(prob, breaks, main = "5025201088_Halyusa Ard Wahyudi_Probstat_D_DNhistogram",
+hist(prob, breaks, main = "5025201156_Probstat_F_DNhistogram",
      col = "steelblue")
 ```
 
@@ -435,7 +435,6 @@ Hasil
 ![image](https://user-images.githubusercontent.com/100200062/162621342-541b631a-b48f-4e0d-8730-81d04471c212.png)
 
 ## ----------------
-Sekian Repo Praktikum Probstat Modul 1 2022 dari saya, terima kasih. 
 
 
 
