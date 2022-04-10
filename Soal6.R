@@ -23,7 +23,7 @@ plot(prob)
 # menggunakan format nama NRP_Nama_Probstat{Nama Kelas}_DNhistogram 
 
 breaks = 50 
-hist(prob, breaks, main = "5025201088_Halyusa Ard Wahyudi_Probstat_D_DNhistogram",
+hist(prob, breaks, main = "5025201156_Nazhifah Elqolby_Probstat_F_DNhistogram",
      col = "steelblue")
 
 
