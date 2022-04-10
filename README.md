@@ -412,12 +412,12 @@ hist(prob, breaks, main = "5025201156_Probstat_F_DNhistogram",
 
 Hasil 
 
-![image](https://user-images.githubusercontent.com/100200062/162621299-6201bf70-e775-4a99-b6b1-ae1f612450af.png)
+
 
 
 Diagramnya sebagai berikut: 
 
-![image](https://user-images.githubusercontent.com/100200062/162621313-959b0e19-7502-4ad6-b352-0bd8c0ed1920.png)
+
 
 
 ### 6.c 
@@ -432,7 +432,7 @@ var = (sd(prob)) ^ 2
 
 Hasil 
 
-![image](https://user-images.githubusercontent.com/100200062/162621342-541b631a-b48f-4e0d-8730-81d04471c212.png)
+
 
 ## ----------------
 
