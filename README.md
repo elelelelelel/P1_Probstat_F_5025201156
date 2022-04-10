@@ -411,11 +411,13 @@ hist(prob, breaks, main = "5025201156_Probstat_F_DNhistogram",
 ```
 
 Hasil 
+![Probstat F 5025201156 - RStudio 10_04_2022 21_40_48](https://user-images.githubusercontent.com/94628041/162625079-1fb55072-c61a-4fc4-a492-6ff400e5da03.png)
 
 
 
 
 Diagramnya sebagai berikut: 
+![diagram](https://user-images.githubusercontent.com/94628041/162625166-bff09d7e-fa8e-4422-b97b-a8a8193d6968.jpeg)
 
 
 
@@ -431,6 +433,7 @@ var = (sd(prob)) ^ 2
 ```
 
 Hasil 
+![duaa](https://user-images.githubusercontent.com/94628041/162625261-59b8c3e3-190d-49b5-a2a7-469f94c873eb.png)
 
 
 
